@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">listView</string>
+    <string name="name_heroes">Nama Pahlawan</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+
+<string-array name="data_nama">
+        <item>Ahmad Dahlan</item>
+        <item>Ahmad Yani</item>
+        <item>Sutomo</item>
+        <item>Gatot Soebroto</item>
+        <item>Ki Hadjar Dewantara</item>
+        <item>Mohammad Hatta</item>
+        <item>Soedirman</item>
+        <item>Soekarno</item>
+        <item>Soepomo</item>
+        <item>Tan Malaka</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/ahmad_dahlan</item>
+        <item>@drawable/ahmad_yani</item>
+        <item>@drawable/bung_tomo</item>
+        <item>@drawable/gatot_subroto</item>
+        <item>@drawable/ki_hadjar_dewantara</item>
+        <item>@drawable/mohammad_hatta</item>
+        <item>@drawable/sudirman</item>
+        <item>@drawable/sukarno</item>
+        <item>@drawable/supomo</item>
+        <item>@drawable/tan_malaka</item>
+    </array>
+
+    </resources>
